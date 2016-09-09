@@ -1,0 +1,470 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="This document provides advice on the setup of Two-Factor Authentication and Two-Step Verification for added security to a client's account">
+<meta name="keywords" content="articlesupportauthentication,  2fa, 2FA, 2-step, 2 step, two step, two factor, account verification, second factor">
+<title>Two-Factor Authentication and Two-Step Verification | Access Now Helpline Documentation</title>
+<link rel="stylesheet" href="css/syntax.css">
+
+
+<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+<!--<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">-->
+<link rel="stylesheet" href="css/modern-business.css">
+<link rel="stylesheet" href="css/lavish-bootstrap.css">
+<link rel="stylesheet" href="css/customstyles.css">
+<link rel="stylesheet" href="css/theme-green.css">
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
+<script src="js/jquery.navgoco.min.js"></script>
+
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/2.0.0/anchor.min.js"></script>
+<script src="js/toc.js"></script>
+<script src="js/customscripts.js"></script>
+
+<link rel="shortcut icon" href="images/favicon.ico">
+
+<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<link rel="alternate" type="application/rss+xml" title="" href="http://idratherbewriting.comfeed.xml">
+
+    <script>
+        $(document).ready(function() {
+            // Initialize navgoco with default options
+            $("#mysidebar").navgoco({
+                caretHtml: '',
+                accordion: true,
+                openClass: 'active', // open
+                save: false, // leave false or nav highlighting doesn't work right
+                cookie: {
+                    name: 'navgoco',
+                    expires: false,
+                    path: '/'
+                },
+                slide: {
+                    duration: 400,
+                    easing: 'swing'
+                }
+            });
+
+            $("#collapseAll").click(function(e) {
+                e.preventDefault();
+                $("#mysidebar").navgoco('toggle', false);
+            });
+
+            $("#expandAll").click(function(e) {
+                e.preventDefault();
+                $("#mysidebar").navgoco('toggle', true);
+            });
+
+        });
+
+    </script>
+    <script>
+        $(function () {
+            $('[data-toggle="tooltip"]').tooltip()
+        })
+    </script>
+    
+
+</head>
+<body>
+<!-- Navigation -->
+<nav class="navbar navbar-inverse navbar-fixed-top">
+    <div class="container topnavlinks">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="fa fa-home fa-lg navbar-brand" href="index.html">&nbsp;<span class="projectTitle"> Access Now Digital Security Helpline Public Documentation</span></a>
+        </div>
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right">
+                <!-- entries without drop-downs appear here -->
+                
+                
+                
+                <li><a href="mydoc_about_articles.html">Articles</a></li>
+                
+                
+                
+                <li><a href="mydoc_about_faqs.html">FAQs</a></li>
+                
+                
+                
+                <li><a href="mydoc_about_guides.html">Guides</a></li>
+                
+                
+                
+                <!-- entries with drop-downs appear here -->
+                <!-- conditional logic to control which topnav appears for the audience defined in the configuration file.-->
+                
+                
+                <!--comment out this block if you want to hide search-->
+                <li>
+                    <!--start search-->
+                    <div id="search-demo-container">
+                        <input type="text" id="search-input" placeholder="search...">
+                        <ul id="results-container"></ul>
+                    </div>
+                    <script src="js/jekyll-search.js" type="text/javascript"></script>
+                    <script type="text/javascript">
+                            SimpleJekyllSearch.init({
+                                searchInput: document.getElementById('search-input'),
+                                resultsContainer: document.getElementById('results-container'),
+                                dataSource: 'search.json',
+                                searchResultTemplate: '<li><a href="{url}" title="Two-Factor Authentication and Two-Step Verification">{title}</a></li>',
+                    noResultsText: 'No results found.',
+                            limit: 10,
+                            fuzzy: true,
+                    })
+                    </script>
+                    <!--end search-->
+                </li>
+            </ul>
+        </div>
+        </div>
+        <!-- /.container -->
+</nav>
+
+<!-- Page Content -->
+<div class="container">
+    <div class="col-lg-12">&nbsp;</div>
+    <!-- Content Row -->
+    <div class="row">
+        <!-- Sidebar Column -->
+        <div class="col-md-3">
+
+          
+
+
+
+
+
+
+
+
+
+
+
+
+<ul id="mysidebar" class="nav">
+    <li class="sidebarTitle">Home Sidebar 1.0</li>
+    
+    
+    
+        
+    
+    <li>
+        <a href="#">Articles</a>
+        <ul>
+            
+            
+            
+            <li><a href="mydoc_articles_events_and_incidents.html">Events & Incidents</a></li>
+            
+            
+            
+            
+            
+            
+            <li><a href="mydoc_articles_procedures_and_policies.html">Procedures & Policies</a></li>
+            
+            
+            
+            
+            
+            
+            <li><a href="mydoc_articles_support.html">Support</a></li>
+            
+            
+            
+            
+        </ul>
+        
+        
+    
+    <li>
+        <a href="#">FAQs</a>
+        <ul>
+            
+            
+            
+            <li><a href="mydoc_faqs_events_and_incidents.html">Events & Incidents</a></li>
+            
+            
+            
+            
+            
+            
+            <li><a href="mydoc_faqs_procedures_and_policies.html">Procedures & Policies</a></li>
+            
+            
+            
+            
+            
+            
+            <li><a href="mydoc_faqs_support.html">Support</a></li>
+            
+            
+            
+            
+        </ul>
+        
+        
+    
+    <li>
+        <a href="#">Guides</a>
+        <ul>
+            
+            
+            
+            <li><a href="mydoc_guides_events_and_incidents.html">Events & Incidents</a></li>
+            
+            
+            
+            
+            
+            
+            <li><a href="mydoc_guides_procedures_and_policies.html">Procedures & Policies</a></li>
+            
+            
+            
+            
+            
+            
+            <li><a href="mydoc_guides_support.html">Support</a></li>
+            
+            
+            
+            
+        </ul>
+        
+        
+        
+        <!-- if you aren't using the accordion, uncomment this block:
+           <p class="external">
+               <a href="#" id="collapseAll">Collapse All</a> | <a href="#" id="expandAll">Expand All</a>
+           </p>
+           -->
+    </li>
+</ul>
+</div>
+
+<!-- this highlights the active parent class in the navgoco sidebar. this is critical so that the parent expands when you're viewing a page. This must appear below the sidebar code above. Otherwise, if placed inside customscripts.js, the script runs before the sidebar code runs and the class never gets inserted.-->
+<script>$("li.active").parents('li').toggleClass("active");</script>
+
+    <!-- Content Column -->
+    <div class="col-md-9">
+        <div class="post-header">
+   <h1 class="post-title-main">Two-Factor Authentication and Two-Step Verification</h1>
+</div>
+
+
+
+<div class="post-content">
+
+   
+    <div class="summary">This document provides advice on the setup of Two-Factor Authentication and Two-Step Verification for added security to a client's account</div>
+   
+
+    
+    
+<!-- this handles the automatic toc. use ## for subheads to auto-generate the on-page minitoc. if you use html tags, you must supply an ID for the heading element in order for it to appear in the minitoc. -->
+<script>
+$( document ).ready(function() {
+  // Handler for .ready() called.
+
+$('#toc').toc({ minimumHeaders: 0, listType: 'ul', showSpeed: 0, headers: 'h2,h3,h4' });
+
+/* this offset helps account for the space taken up by the floating toolbar. */
+$('#toc').on('click', 'a', function() {
+  var target = $(this.getAttribute('href'))
+    , scroll_target = target.offset().top
+
+  $(window).scrollTop(scroll_target - 10);
+  return false
+})
+  
+});
+</script>
+
+<div id="toc"></div>
+
+    
+
+    
+
+    
+
+    
+
+  <h4 id="symptom">Symptom</h4>
+<ul>
+  <li>
+    <p>Concern over attempted account hacking</p>
+  </li>
+  <li>
+    <p>A recovery link has been sent to the client without asking for it</p>
+  </li>
+  <li>
+    <p>Activity has been noted on the account without the knowledge or permission of the owner</p>
+  </li>
+  <li>
+    <p>Concerns about account access attempts from devices which do not belong to the account owner</p>
+  </li>
+</ul>
+
+<h4 id="problem">Problem</h4>
+<p>Securing the client’s accounts from unauthorized access attempts.</p>
+
+<h4 id="solution">Solution</h4>
+<p>Assist the client in setting up Two-Factor Authentication (if available, over 2-Step) and in using a one time password app to be the second factor of the process.</p>
+
+<h5 id="two-factor-authentication-and-two-step-verification">Two-Factor Authentication and Two-Step Verification</h5>
+<p>Set up the account with Two-Factor Authentication or Two-Step Verification. This solution is not available for every online account, but when it is, we should encourage the client to use it, adding a layer of security beyond their password.</p>
+
+<p>If your client is concerned about associating their phone number with the account, please read below.</p>
+
+<p>Use https://twofactorauth.org/ as a reference to see what accounts present 2-Step or 2FA as an option.</p>
+
+<p>For some of our most requested sites, provide the following instructional links to the client and assist in guiding them through the setup:</p>
+
+<ul>
+  <li>
+    <p>Google: https://www.google.com/landing/2step/</p>
+  </li>
+  <li>
+    <p>Twitter: https://blog.twitter.com/2013/getting-started-with-login-verification</p>
+  </li>
+  <li>
+    <p>Facebook: https://www.facebook.com/help/413023562082171/</p>
+  </li>
+  <li>
+    <p>Microsoft: http://windows.microsoft.com/en-us/windows/two-step-verification-faq</p>
+  </li>
+  <li>
+    <p>Yahoo: https://help.yahoo.com/kb/SLN5013.html</p>
+  </li>
+</ul>
+
+<h5 id="one-time-password-apps">One Time Password Apps</h5>
+<p>If 2-Factor Authentication is an option, please council the client in the use of One Time Password apps.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Note</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>This is our recommended way of implementing 2-Factor Authentication because of its heightened security viability due to the use of both “something you know” (a password) and “something you have” (something on your person, in this case an installed one time password app).</td>
+    </tr>
+  </tbody>
+</table>
+
+<ul>
+  <li>
+    <p>Let the client know how OTPs work</p>
+
+    <p>One Time Passwords (OTPs) are one-time use codes that act as a password for a single use. These codes are generated by an app on a device you own (like a mobile phone), and are only valid for a short period of time.</p>
+  </li>
+  <li>
+    <p>Explain the options</p>
+
+    <p>Google offers Google Authenticator, but there are free-and-open-source (FOSS) options like FreeOTP and OTP Authenticator as well.</p>
+
+    <ul>
+      <li>
+        <p>Google Authenticator: https://support.google.com/accounts/answer/1066447?hl=en</p>
+      </li>
+      <li>
+        <p>FreeOTP: https://fedorahosted.org/freeotp/</p>
+      </li>
+      <li>
+        <p>OTP Authenticator: https://fossdroid.com/a/otp-authenticator.html</p>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <p>Assure the client</p>
+
+    <p>Only the device with the authenticator app installed will be able to generate the one time password codes, so as long as an attacker does not have the unlocked device at hand, the account should be safe. This option does not require data or a phone connection.</p>
+  </li>
+</ul>
+
+<h4 id="comments">Comments</h4>
+<ul>
+  <li>
+    <p>Note that 2-Step Verification (2-Step) and 2-Factor Authentication (2FA) are subtly different from one another, and if the service offers a form of it, 2-Factor Authentication will be more secure.</p>
+
+    <p>Like 2-Step, in 2FA two pieces are necessary to log in to an account. A password serves as the first piece; it’s something you know, information supposedly only known to the user. In 2-Step, the second piece is usually something you know also. In 2FA, the second piece is something you have (a physical item, like a phone or security key) or something you are (characteristics inherent to you, like a fingerprint or retina pattern).</p>
+
+    <p>Please review this flow chart for a visual representation of the difference https://paul.reviews/the-difference-between-two-factor-and-two-step-authentication/</p>
+  </li>
+  <li>
+    <p>For other ways to increase the security of a client’s account, please <a href="secure_online_accounts.md">view the document</a> on securing online accounts.</p>
+  </li>
+</ul>
+
+
+
+    <div class="tags">
+        
+        <b>Tags: </b>
+        
+        
+        
+        <a href="tag_article.html" class="btn btn-default navbar-btn cursorNorm" role="button">article</a>
+        
+        
+        
+        <a href="tag_support.html" class="btn btn-default navbar-btn cursorNorm" role="button">support</a>
+        
+        
+        
+        <a href="tag_authentication.html" class="btn btn-default navbar-btn cursorNorm" role="button">authentication</a>
+        
+        
+        
+    </div>
+
+    
+
+</div>
+
+
+
+<footer>
+            <div class="row">
+                <div class="col-lg-12 footer">
+               &copy;2016 Access Now. All rights reserved. <br />
+ Site last generated: Sep 9, 2016 <br />
+<p><img src="images/accessnow_logo_transparent_small.png" alt="Company logo"/></p>
+                </div>
+            </div>
+</footer>
+
+
+    </div>
+    <!-- /.row -->
+</div>
+<!-- /.container -->
+    </div>
+
+</body>
+
+</html>

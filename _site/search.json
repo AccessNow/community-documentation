@@ -1,0 +1,334 @@
+[
+
+
+
+
+
+
+{
+"title": "Access Now Digital Security Helpline Community Documentation",
+"tags": "about",
+"keywords": "home, index, homepage, default, Home, home page, about site, about documentation, about",
+"url": "index.html",
+"summary": ""
+},
+
+
+
+{
+"title": "Two-Factor Authentication and Two-Step Verification",
+"tags": "articlesupportauthentication",
+"keywords": "2fa, 2FA, 2-step, 2 step, two step, two factor, account verification, second factor",
+"url": "mydoc_2fa_recommendations.html",
+"summary": "This document provides advice on the setup of Two-Factor Authentication and Two-Step Verification for added security to a client's account"
+},
+
+
+
+{
+"title": "About the theme author",
+"tags": "getting_started",
+"keywords": "documentation theme, jekyll, technical writers, help authoring tools, hat replacements",
+"url": "experimentA.html",
+"summary": "I have used this theme for projects that I've worked on as a professional technical writer."
+},
+
+
+
+{
+"title": "About Articles",
+"tags": "aboutindexarticle",
+"keywords": "articles, article, how articles work, how to articles, article documentation, index of articles, index articles, understand articles, all articles, list of articles, list articles, about articles, article categories",
+"url": "mydoc_about_articles.html",
+"summary": "Articles are documents that provide advice for situations the Helpline's incident handlers encounter. These docs lead the handler through expected behaviors and modes of reaction for the specific scenario."
+},
+
+
+
+{
+"title": "About FAQs",
+"tags": "aboutindexfaq",
+"keywords": "faqs, faq, FAQs, FAQ, how faqs work, how to faqs, faq documentation, index of faqs, index faqs, understand faqs, all faqs, list of faqs, list faqs, about faqs, faq categories",
+"url": "mydoc_about_faqs.html",
+"summary": "Frequently Asked Questions (FAQs) are documents that answer the most asked or anticipated questions for a piece of software, hardware, process, or policy. These documents are geared towards the general public and Helpline clients."
+},
+
+
+
+{
+"title": "About Guides",
+"tags": "aboutguideindex",
+"keywords": "guides, guide, how guides work, how to guides, guide documentation, index of guides, index guides, understand guides, all guides, list of guides, list guides, about guides, guide categories",
+"url": "mydoc_about_guides.html",
+"summary": "Guides are step-by-step instruction manuals made to assist those that contact the Helpline move through the set up of a piece of software, hardware, process or policy."
+},
+
+
+
+{
+"title": "Account Recovery &amp; Deactivation",
+"tags": "articleeventsaccount-compromise",
+"keywords": "recovery, deactivation, account recovery, account deactivation, get back account, retrieve account, close account, shutdown account",
+"url": "mydoc_account_recovery_and_deactivation.html",
+"summary": "This article describes the Helpline's procedure for an account's recovery or deactivation"
+},
+
+
+
+{
+"title": "Index for Articles Events &amp; Incidents",
+"tags": "articleeventsindex",
+"keywords": "events, incidents, article events, article incidents, index events, index incidents, index articles, index events and incidents, index of articles, articles events and incidents, event, incident, article categories",
+"url": "mydoc_articles_events_and_incidents.html",
+"summary": "This category is used when the Article describes how to react when we are alerted to an attack or threat against an individual, organization, or asset. This includes situations in which there has already been a compromise of the client's security."
+},
+
+
+
+{
+"title": "Index for Articles Procedures &amp; Policies",
+"tags": "articleindexprocedures",
+"keywords": "procedures, incidents, article events, article policies, index procedures, index policies, index articles, index procedures and policies, index of articles, articles procedures and policies, procedure, policy, article categories",
+"url": "mydoc_articles_procedures_and_policies.html",
+"summary": "When an Article describes a situation that deals with an internal policy or process, it goes here."
+},
+
+
+
+{
+"title": "Index for Articles Support",
+"tags": "articlesupportindex",
+"keywords": "support, Support, article support, index support, index articles support, index for support, index of support, articles support, article categories, Article, Articles",
+"url": "mydoc_articles_support.html",
+"summary": "This category contains Articles with advice, training, and assistance in secure practices or tools"
+},
+
+
+
+{
+"title": "Two-Step Verification for Google Apps Organization FAQ",
+"tags": "faqsupportauthentication",
+"keywords": "2fa faq, 2fa, two facotr, two step, 2 step, 2-step, Google, google, google apps, secure google, google account, verification, authentication",
+"url": "mydoc_faq_2fa_google_apps.html",
+"summary": "This FAQ is to answer some common questions about two-step verification for organizations planning to implement it for their team's use of Google Apps."
+},
+
+
+
+{
+"title": "Signal FAQ for Organizations Using Signal",
+"tags": "faqsupportcall-securityinstant-messaging-security",
+"keywords": "secure chat, secure voice, voice, call, secure call, text, texting, signal, Signal, text apps, apps for texting, encrypted text, encrypt text, android, ios, encrypted messages, encrypt messages",
+"url": "mydoc_faq_signal.html",
+"summary": "This FAQ is to assist an organization interested in utilizing Signal, the secure text messaging app for Android and iOS, for their confidential text messages."
+},
+
+
+
+{
+"title": "Index for FAQs Events &amp; Incidents",
+"tags": "faqindexevents",
+"keywords": "events, incidents, FAQ, FAQs, faq events, faq incidents, index events, index incidents, index faqs, index events and incidents, index of faqs, faqs events and incidents, event, incident, faq categories",
+"url": "mydoc_faqs_events_and_incidents.html",
+"summary": "This category is used when the Guide describes how to react when we are alerted to an attack or threat against an individual, organization, or asset. This includes situations in which there has already been a compromise of the client's security."
+},
+
+
+
+{
+"title": "Index for FAQs Procedures &amp; Policies",
+"tags": "faqindexprocedures",
+"keywords": "procedures, incidents, faq events, faq policies, index procedures, index policies, index faqs, index procedures and policies, index of faqs, faqs procedures and policies, procedure, policy, faq categories, FAQ, FAQs",
+"url": "mydoc_faqs_procedures_and_policies.html",
+"summary": "When a FAQ relates to a situation that deals with an internal policy or process, it goes here."
+},
+
+
+
+{
+"title": "Index for FAQs Support",
+"tags": "faqindexsupport",
+"keywords": "support, Support, faq support, index support, index faqs support, index for support, index of support, faqs support, faq categories, FAQ, FAQs",
+"url": "mydoc_faqs_support.html",
+"summary": "This category contains FAQs about secure practices or tools."
+},
+
+
+
+{
+"title": "Index for Guides Events &amp; Incidents",
+"tags": "guideindexevents",
+"keywords": "events, incidents, guide events, FAQ incidents, index events, index incidents, index guides, index events and incidents, index of guides, guides events and incidents, event, incident, guide categories",
+"url": "mydoc_guides_events_and_incidents.html",
+"summary": "This category is used when the Guide describes how to react when we are alerted to an attack or threat against an individual, organization, or asset. This includes situations in which there has already been a compromise of the client's security."
+},
+
+
+
+{
+"title": "Index for Guides Procedures &amp; Policies",
+"tags": "guideindexprocedures",
+"keywords": "procedures, incidents, guide events, guide policies, index procedures, index policies, index guides, index procedures and policies, index of guides, guides procedures and policies, procedure, policy, guide categories, Guide, Guides",
+"url": "mydoc_guides_procedures_and_policies.html",
+"summary": "When a Guide describes a situation that deals with an internal policy or process, it goes here."
+},
+
+
+
+{
+"title": "Index for Guides Support",
+"tags": "guideindexsupport",
+"keywords": "support, Support, guide support, index support, index guides support, index for support, index of support, guides support, guide categories, Guide, Guides",
+"url": "mydoc_guides_support.html",
+"summary": "This category encompasses advice, training, and assistance in secure practices or tools."
+},
+
+
+
+{
+"title": "Lightweight Security Assessment",
+"tags": "articlesupportsecurity-assessment",
+"keywords": "lightweight, security assessment, assessmet, threat model, risk evaluation, light risk assessment, light risk",
+"url": "mydoc_lightweight_security_assessment.html",
+"summary": "This is a basic framework to better understand the client's digital security needs."
+},
+
+
+
+{
+"title": "Scroll layout",
+"tags": "special_layouts",
+"keywords": "json, scrolling, scrollto, jquery plugin",
+"url": "jsmydoc_scroll.html",
+"summary": "This page demonstrates how you the integration of a script called ScrollTo, which is used here to link definitions of a JSON code sample to a list of definitions for that particular term. The scenario here is that the JSON blocks are really long, with extensive nesting and subnesting, which makes it difficult for tables below the JSON to adequately explain the term in a usable way."
+},
+
+
+
+{
+"title": "Secure Chat for Android and iOS with Signal",
+"tags": "articlesupportinstant-messaging-securitycall-security",
+"keywords": "secure chat, secure voice, voice, call, secure call, text, texting, signal, Signal, text apps, apps for texting, encrypted text, encrypt text, android, ios, encrypted messages, encrypt messages",
+"url": "mydoc_secure_chat_signal.html",
+"summary": "This document presents Signal as a suggestion for secure mobile chat that supports group chat and is compatible with iOS and Android"
+},
+
+
+
+{
+"title": "Securing Social Media and Online Accounts",
+"tags": "articlesupportsocial-media-security",
+"keywords": "secure accounts, account security, online security, privacy settings, security settings, settings, account settings, secure online accounts, secure social media, layered security",
+"url": "mydoc_secure_online_accounts.html",
+"summary": "Social media is crucial for many human rights activists to share their ideas, communicate with partners, and broadcast news. Their work and popularity can make them targets for hacking and account compromise. Securing accounts is essential."
+},
+
+
+
+{
+"title": "Security Recommendations when Using Google Drive for Document Sharing",
+"tags": "articlesupportsocial-media-security",
+"keywords": "drive, Drive, Google Drive, google drive, gmail account, google account, document sharing, secure document sharing, privacy settings, security settings, gmail security, google security",
+"url": "mydoc_security_recs_for_google_drive.html",
+"summary": "Aside from usability, security is one of the primary considerations for sharing documents using Google Drive"
+},
+
+
+
+{
+"title": "Tor Exit Node Abuse Complaint",
+"tags": "articleprocedurestor-abuse",
+"keywords": "tor, stalking, harassment, abuse, tor exit node, exit node, exit, tor abuse, tor node, complaint, hacking, tor hacking, tor complaint, TOR, Tor",
+"url": "mydoc_tor_abuse.html",
+"summary": "Someone detected abuse from an IP address."
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]

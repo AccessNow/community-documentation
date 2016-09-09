@@ -1,0 +1,103 @@
+# This is your sidebar Table Of Contents (TOC). The sidebar code 
+# loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: Home Sidebar
+  version: 1.0
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage
+      output: pdf
+      type: frontmatter
+
+  - title: Articles
+    output: web
+    folderitems:
+
+    - title: Events & Incidents
+      url: /mydoc_articles_events_and_incidents.html
+      output: web
+
+    - title: Procedures & Policies
+      url: /mydoc_articles_procedures_and_policies.html
+      output: web
+
+    - title: Support
+      url: /mydoc_articles_support.html
+      output: web, pdf
+
+  - title: FAQs
+    output: web, pdf
+    folderitems:
+
+    - title: Events & Incidents
+      url: /mydoc_faqs_events_and_incidents.html
+      output: web
+
+    - title: Procedures & Policies
+      url: /mydoc_faqs_procedures_and_policies.html
+      output: web, pdf
+    
+    - title: Support
+      url: /mydoc_faqs_support.html
+      output: web
+
+  - title: Guides
+    output: web, pdf
+    folderitems:
+
+    - title: Events & Incidents
+      url: /mydoc_guides_events_and_incidents.html
+      output: web, pdf
+
+    - title: Procedures & Policies
+      url: /mydoc_guides_procedures_and_policies.html
+      output: web, pdf
+
+    - title: Support
+      url: /mydoc_guides_support.html
+      output: web, pdf  
+
+
+    
+
+#    - title: Git collaboration
+#      url: /mydoc_git_collaboration
+#      output: web, pdf
+
+
+
+#KIM COMMENTED OUT: EXAMPLE OF STRUCTURE FOR FOLDERS
+#  - title: Tag archives
+#    output: web
+#    folderitems:
+#
+#    - title: Tag archives overview
+#      url: /mydoc_tag_archives_overview.html
+#      output: web
+#
+#      subfolders:
+#      - title: Tag archive pages
+#        output: web
+#
+#        subfolderitems:
+#        - title: Formatting pages
+#          url: /tag_formatting.html
+#          output: web
+
+
+
+
+
+
+
