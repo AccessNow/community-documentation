@@ -104,5 +104,5 @@ description: "Community Documentation for Access Now's Digital Security Helpline
 # the description is used in the feed.xml file
 
 # needed for sitemap.xml file only
-# url: https://github.com/AccessNow/community-documentation
-url: accessnow.github.io baseurl: /community-documentation
+url: https://github.com/AccessNow/community-documentation
+#url: accessnow.github.io baseurl: /community-documentation
