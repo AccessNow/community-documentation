@@ -9,11 +9,11 @@ summary:
 
 # About this Documentation
 
-The community documentation is for Access Now's Digital Security Helpline to ensure transparency and accountability in its work. These documents provide the guidelines we use for our incident handlers, and include guides and FAQs for our clients and friends of the Helpline. We hope to make public as much as we can about the Helpline's operations and look forward to incorporating your feedback! 
+The community documentation is for Access Now's [Digital Security Helpline](https://www.accessnow.org/help) to ensure transparency and accountability in its work. These documents provide the guidelines we use for our incident handlers, and include guides and FAQs for our clients and friends of the Helpline. We hope to make public as much as we can about the Helpline's operations and look forward to incorporating your feedback! 
 
 ## Current Status of Documentation
 
-It takes time to produce and edit our docs for publish here. Not all of our available categories will have documents associated with them yet, but as we work through our internal documentation, we hope that won't be the case for long. We thank you for your patience, and welcome any feedback you have, by email or by contributing to our GitHub page.
+It takes time to produce and edit our docs for publish here. Not all of our available categories will have documents associated with them yet, but as we work through our internal documentation, we hope that won't be the case for long. We thank you for your patience, and welcome any feedback you have, by email or by contributing to our [GitHub page](https://github.com/AccessNow/community-documentation/).
 
 ## Types of Documentation
 
