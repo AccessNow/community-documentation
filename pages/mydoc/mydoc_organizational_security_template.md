@@ -1,5 +1,5 @@
 ---
-title: Organizational Security Template 
+title: Organizational Security Policies Template 
 tags: [article, support]
 keywords: secure practice, best practice, best practices, secure practices, organizational security, security policy, organizational security policy template, security policy, security policies, organization security, risk assessment, security assessment, baseline organizational practices
 summary: This article provides a template for creating a security policy on an organizational level.
@@ -8,9 +8,6 @@ permalink: mydoc_organizational_security_template.html
 folder: mydoc
 ---
 
-
-
-**Organizational Security Policies Template**
 
 * * *
 
@@ -83,9 +80,9 @@ folder: mydoc
 
 **1. Access policies**
 
-**a. Access to where you work **
+**a. Access to where you work**
 
-**	I. The office and your desk**
+**I. The office and your desk**
 
 * **Who has the keys, fobs, or PIN to enter the office?**
 
@@ -101,7 +98,7 @@ folder: mydoc
 
     * Staff should place papers and valuable hardware in a locked desk or cabinet if available
 
-* **Be aware of tailgating and impersonation: **"Social engineers" are people who attempt to manipulate others into taking actions, often using someone’s helpfulness or adherence to routine and respect for authority against them.
+* **Be aware of tailgating and impersonation:** "Social engineers" are people who attempt to manipulate others into taking actions, often using someone’s helpfulness or adherence to routine and respect for authority against them.
 
 A social engineer may attempt to use "tailgating" to enter a building. Tailgating means that as you enter the building the social engineer follows right behind you. Perhaps they rely on your politely holding the door, or the social engineer will rummage through the bag they are holding pretending to look for their key and they are swiped in when someone takes pity on them. 
 
@@ -121,7 +118,7 @@ At the end of the work day, confidential documents should be locked up and place
 
 **b. Access to physical documents**
 
-**I. Printed documents **
+**I. Printed documents**
 
 Any internal printed documents with {ORG} information should be treated as confidential, and cared for appropriately. Do not leave prints visible in public spaces, and please try to be aware of how private particular information is before you print it -- especially if you are creating copies.
 
@@ -129,13 +126,13 @@ Try not to bring printed versions of confidential documents home, and avoid prin
 
 When in the office, please avoid leaving printed documents visibly on top of your desk, and try to secure any documents in a locked desk or cabinet before going home.
 
-**II. Destruction of papers **
+**II. Destruction of papers**
 
 If a document is printed, as soon as it is no longer needed please destroy in a paper shredder as soon as possible. 
 
-**c. Devices **
+**c. Devices**
 
-**I. Number of devices **
+**I. Number of devices**
 
 Try to reduce the number of devices that have work information on them, including the credentials to your email. Every new device with confidential work accounts or data is a new device that will require protection from loss, theft, and hacking. If possible, a smartphone and computer (laptop, desktop) should be the only two devices used for work information.
 
@@ -393,9 +390,9 @@ When sending links and attachments, try to alert the receiver to their being sen
 
 When receiving links and attachments, try to remain cautious and if you are unsure of the message, or of the sender, do not click on the link. Do your best to verify unsolicited links and attachments by asking the sender through a separate channel if they did indeed send the message.
 
-**d. Web browsing **
+**d. Web browsing**
 
-* **VPN use **
+* **VPN use**
 
 When browsing the web on any untrusted or open wifi network, including while traveling, in cafes, airports, or hotels, please use a VPN (virtual private network) at all times. 
 
