@@ -1,12 +1,11 @@
 ---
 title: FAQ - Secure Backup
-subtitle: Backup policy and process for different types of devices (laptops and smartphones), Windows, Linux, Mac OS X, Android, iOS
-class: File Storage Security
-topic: Backup
-conf: Public
-lang: en
-symptom: The client has sensitive information and he is afraid of loosing them; The client is going to encrypt their device and wants to back up their data in advance; The client's device has crashed and they want to recover the lost data
-ref: Encrypt_files_Mac_GpgTools.md
+tags: [article, support, backup]
+keywords: backup, file storage security
+summary: Backup policy and process for different types of devices (laptops and smartphones), Windows, Linux, Mac OS X, Android, iOS
+sidebar: mydoc_sidebar
+permalink: mydoc_secure_backup.md
+folder: mydoc
 ---
 
 # FAQ - Secure Backup
