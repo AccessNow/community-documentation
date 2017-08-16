@@ -1,12 +1,13 @@
 ---
 title: FAQ - Secure Backup
-tags: [article, support, backup]
+tags: [article, support, security-assessment]
 keywords: backup, file storage security
 summary: Backup policy and process for different types of devices (laptops and smartphones), Windows, Linux, Mac OS X, Android, iOS
 sidebar: mydoc_sidebar
 permalink: mydoc_secure_backup.md
 folder: mydoc
 ---
+
 
 # FAQ - Secure Backup
 ## Backup policy and process for different types of devices (laptops and smartphones), Windows, Linux, Mac OS X, Android, iOS

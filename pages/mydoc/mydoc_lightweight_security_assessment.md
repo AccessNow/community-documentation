@@ -1,7 +1,7 @@
 ---
 title: Lightweight Security Assessment
 tags: [article, support, security-assessment]
-keywords: lightweight, security assessment, assessmet, threat model, risk evaluation, light risk assessment, light risk
+keywords: lightweight, security assessment, assessment, threat model, risk evaluation, light risk assessment, light risk
 summary: This is a basic framework to better understand the client's digital security needs.
 sidebar: mydoc_sidebar
 permalink: mydoc_lightweight_security_assessment.html
