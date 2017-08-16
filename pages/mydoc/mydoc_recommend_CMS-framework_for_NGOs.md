@@ -71,7 +71,7 @@ It may be good to investigate and add one or more static website options, given 
 
 [List of content management systems](https://en.wikipedia.org/wiki/List_of_content_management_systems)
 
-[This website](www.opensourcecms.com) has demo versions of over 70 open source LAMP-based CMSs, including Drupal, Mambo, and Joomla, eZ publish, Lenya, and phpBB.
+[This website](https://www.opensourcecms.com) has demo versions of over 70 open source LAMP-based CMSs, including Drupal, Mambo, and Joomla, eZ publish, Lenya, and phpBB.
 
 [This website](http://www.cmsmatrix.org/matrix/cms-matrix) lets you make the comparison between two or more CMSs from a features/functionalities perspective.
 
