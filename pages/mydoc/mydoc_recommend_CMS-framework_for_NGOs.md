@@ -59,7 +59,7 @@ Sometimes, the client could have a technical person with some framework skills; 
 It may be good to investigate and add one or more static website options, given their security benefits:
 
 - [**Nikola**](https://getnikola.com/)
-- [**Jekyll**](http://jekyllrb.com, https://en.wikipedia.org/wiki/Jekyll_(software))
+- [**Jekyll**](http://jekyllrb.com)
 - [**Octopress** (built on top of Jekyll)](https://github.com/octopress/octopress)
 - [**Pelican**](http://blog.getpelican.com/) - Pelican is a static site generator, written in Python, that requires no database or server-side logic.
 - [**MkFramework**](http://mkframework.com/) - For mini forums building, a very interesting Framework project (website in French)
