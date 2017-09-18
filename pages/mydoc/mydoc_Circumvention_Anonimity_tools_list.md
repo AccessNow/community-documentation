@@ -1,12 +1,11 @@
 ---
 title: Circumvention & Anonimity tools list
-subtitle: Best and secure circumvention tools, Tor, VPN, Tails
-class: Secure Communications
-topic: Circumvention
-conf: Public
-lang: en
-symptom: Trouble opening websites/social media; the website of a client has been blocked and they would like to provide visitors with tools to circumvent the block; the client needs to anonymously browse the internet.
-ref: 
+tags: [article, support, censorship]
+keywords: assessment, censorship, circumvention
+summary: Best and secure circumvention tools, Tor, VPN, Tails
+sidebar: mydoc_sidebar
+permalink: mydoc_Circumvention_Anonimity_tools_list.html
+folder: mydoc
 ---
 
 # Circumvention & Anonimity tools list
