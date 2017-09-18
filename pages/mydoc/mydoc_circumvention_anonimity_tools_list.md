@@ -1,10 +1,10 @@
 ---
 title: Circumvention & Anonimity tools list
-tags: [article, support, censorship]
+tags: [article, support]
 keywords: assessment, censorship, circumvention
 summary: Best and secure circumvention tools, Tor, VPN, Tails
 sidebar: mydoc_sidebar
-permalink: mydoc_Circumvention_Anonimity_tools_list.html
+permalink: mydoc_circumvention_anonimity_tools_list.html
 folder: mydoc
 ---
 
