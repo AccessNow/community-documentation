@@ -263,6 +263,6 @@ Tools for bit-by-bit copy
 
 #### Resources and further reading:
 
-- [*DEFT 7 Manual - Digital Evidence and Forensics Toolkit*](www.deftlinux.net/doc/EN-deft7.pdf) [PDF]
+- [*DEFT 7 Manual - Digital Evidence and Forensics Toolkit*](http://www.deftlinux.net/doc/EN-deft7.pdf) [PDF]
 - Justin C. Klein Keane, [*Capturing a Forensic Image*](http://sites.sas.upenn.edu/sites/default/files/kleinkeane/files/forensic-capture.pdf) [PDF]
 - SANS Digital Forensics and Incident Response Blog: [Forensics 101: Acquiring an Image with FTK Imager](https://digital-forensics.sans.org/blog/2009/06/18/forensics-101-acquiring-an-image-with-ftk-imager/)
