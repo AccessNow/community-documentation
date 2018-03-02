@@ -16,7 +16,7 @@ folder: mydoc
 
 Skype is not a good solution for human right defenders at risk.
 
-Depending on their threat model, other commercial services like Google Hangouts can also be contraindicated.
+Depending on their threat model, we should also discourage at-risk users from using other commercial services like Google Hangouts.
 
 
 ### Solution
