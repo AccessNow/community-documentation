@@ -1,9 +1,8 @@
-# This is your sidebar Table Of Contents (TOC). The sidebar code 
-# loops through sections here and provides the appropriate formatting.
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
 
 entries:
 - title: sidebar
-  product: Home Sidebar
+  product: Helpline Community Documentation
   version: 1.0
   folders:
 
@@ -12,72 +11,76 @@ entries:
     type: frontmatter
     folderitems:
     - title:
-      url: /titlepage
+      url: /titlepage.html
       output: pdf
       type: frontmatter
     - title:
-      url: /tocpage
+      url: /tocpage.html
       output: pdf
       type: frontmatter
 
   - title: Articles
-    output: web
-    folderitems:
-
-    - title: Events & Incidents
-      url: /mydoc_articles_events_and_incidents.html
-      output: web
-
-    - title: Procedures & Policies
-      url: /mydoc_articles_procedures_and_policies.html
-      output: web
-
-    - title: Support
-      url: /mydoc_articles_support.html
-      output: web, pdf
-
-  - title: FAQs
     output: web, pdf
     folderitems:
 
-    - title: Events & Incidents
-      url: /mydoc_faqs_events_and_incidents.html
-      output: web
-
-    - title: Procedures & Policies
-      url: /mydoc_faqs_procedures_and_policies.html
+    - title: Account Recovery
+      url: /tag_account_recovery.html
       output: web, pdf
-    
-    - title: Support
-      url: /mydoc_faqs_support.html
-      output: web
+#      type: homepage
 
-  - title: Guides
+    - title: Anonymity and Circumvention
+      url: /tag_anonymity_circumvention.html
+      output: web, pdf
+
+    - title: Censorship
+      url: /tag_censorship.html
+      output: web, pdf
+
+    - title: Devices and Data Security
+      url: /tag_devices_data_security.html
+      output: web, pdf
+
+    - title: Documentation
+      url: /tag_documentation.html
+      output: web, pdf
+
+    - title: Forensics
+      url: /tag_forensics.html
+      output: web, pdf
+
+    - title: Helpline Procedures
+      url: /tag_helpline_procedures.html
+      output: web, pdf
+
+    - title: Infrastructure
+      url: /tag_infrastructure.html
+      output: web, pdf
+
+    - title: Organization Security
+      url: /tag_organization_security.html
+      output: web, pdf
+
+    - title: Phishing and Suspicious Email
+      url: /tag_phishing_suspicious_email.html
+      output: web, pdf
+
+    - title: Secure Communications
+      url: /tag_secure_communications.html
+      output: web, pdf
+
+    - title: Vulnerabilities and Malware
+      url: /tag_vulnerabilities_malware.html
+      output: web, pdf
+
+  - title: Templates
     output: web, pdf
+
     folderitems:
-
-    - title: Events & Incidents
-      url: /mydoc_guides_events_and_incidents.html
+    - title: All Templates
+      url: /tag_templates.html
       output: web, pdf
-
-    - title: Procedures & Policies
-      url: /mydoc_guides_procedures_and_policies.html
-      output: web, pdf
-
-    - title: Support
-      url: /mydoc_guides_support.html
-      output: web, pdf  
-
-
-    
-
-#    - title: Git collaboration
-#      url: /mydoc_git_collaboration
-#      output: web, pdf
-
-
-
-#KIM COMMENTED OUT: EXAMPLE OF STRUCTURE FOR FOLDERS
+# example of 3-layer sidebar
+#
 #  - title: Tag archives
 #    output: web
 #    folderitems:
@@ -89,15 +92,20 @@ entries:
 #      subfolders:
 #      - title: Tag archive pages
 #        output: web
-#
 #        subfolderitems:
+#
 #        - title: Formatting pages
 #          url: /tag_formatting.html
 #          output: web
-
-
-
-
-
-
-
+#
+#        - title: Navigation pages
+#          url: /tag_navigation.html
+#          output: web
+#
+#        - title: Content types pages
+#          url: /tag_content_types.html
+#          output: web
+#
+#        - title: Publishing pages
+#          url: /tag_publishing.html
+#          output: web

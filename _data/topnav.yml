@@ -1,40 +1,29 @@
 ## Topnav single links
-## if you want to list an external url, use external_url 
-## instead of url. the theme will apply a different link base.
+## if you want to list an external url, use external_url instead of url. the theme will apply a different link base.
 topnav:
 - title: Topnav
   items:
-    - title: Articles
-      url: /mydoc_about_articles.html
-    - title: FAQs
-      url: /mydoc_about_faqs.html
-    - title: Guides  
-      url: /mydoc_about_guides.html
+    - title: GitHub
+      external_url: https://github.com/AccessNow/community-documentation
+    - title: News
+      url: /news
 
+#Topnav dropdowns
+topnav_dropdowns:
+- title: Topnav dropdowns
+  folders:
+    - title: About
+      folderitems:
+        - title: Access Now
+          external_url: https://accessnow.org/about-us
+        - title: Digital Security Helpline
+          external_url: http://accessnow.org/help
+    - title: Documentation
+      folderitems:
+        - title: Must-Read Articles
+          url: /tag_faq.html
+        - title: Helpline Procedures and Guides
+          url: /tag_articles.html
+        - title: Email Templates
+          url: /tag_templates.html
 
-# KIM COMMENTED OUT FOR EXAMPLE NAV W/ DROPDOWNS
-
-# #Topnav dropdowns
-# topnav_dropdowns:
-# - title: Topnav dropdowns
-#  folders:
-#    - title: Jekyll Resources
-#      folderitems:
-#        - title: Github Repo
-#          external_url: https://github.com/tomjohnson1492/documentation-theme-jekyll
-#        - title: Jekyll Talk
-#          external_url: https://talk.jekyllrb.com
-#        - title: Jekyll documentation
-#          external_url: http://jekyllrb.com/docs/home/
-#        - title: Jekyll on Stack Overflow
-#          external_url: http://stackoverflow.com/questions/tagged/jekyll
-#        - title: Jekyll on my blog
-#          external_url: http://idratherbewriting.com/category-jekyll/
-#    - title: Products
-#      folderitems:
-#        - title: Jekyll Documentation Theme
-#          url: /mydoc_introduction.html
-#        - title: Product 1
-#          url: /p1_landing_page.html
-#        - title: Product 2
-#          url: /p2_landing_page.html

@@ -1,9 +1,0 @@
----
-title: "Shutdown Resilience"
-tagName: shutdown-resilience
-search: exclude
-permalink: tag_shutdown_resilience.html
-sidebar: mydoc_sidebar
-folder: tags
----
-{% include taglogic.html %}

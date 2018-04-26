@@ -1,37 +1,24 @@
+# Note:
+# If you are using the createtag script, don't leave an blank line at the end of this file.
+# In other words, the last line must be the last tag in the allowed-tags list.
 allowed-tags:
-  - article
+  - home
   - faq
-  - guide
-  - index
-  - about
-  - support
-  - events
-  - procedures
-  - malware
-  - suspicious-email
-  - vulnerability
-  - fake-domain
-  - account-compromise
+  - templates
+  - articles
+  - collaboration
+  - news
+  - direct_intervention
+  - account_recovery
+  - account_security
+  - anonymity_circumvention
   - censorship
-  - system-compromise
-  - shutdown
-  - data-leak
-  - outreach
+  - devices_data_security
   - documentation
-  - tor-abuse
-  - email-security
-  - browsing-security
-  - instant-messaging-security
-  - call-security
-  - social-media-security
-  - safe-travel
-  - secure-storage
-  - infrastructure-security
-  - security-assessment
-  - circumvention
-  - shutdown-resilience
-  - device-security
-  - orgsec-policies
-  - anonymity
-  - backup-security
-  - authentication
+  - forensics
+  - helpline_procedures
+  - infrastructure
+  - organization_security
+  - phishing_suspicious_email
+  - secure_communications
+  - vulnerabilities_malware

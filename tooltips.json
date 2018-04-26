@@ -1,17 +1,16 @@
 ---
-layout: none
+layout: null
 search: exclude
 ---
+
 {
 "entries":
 [
 {% for page in site.tooltips %}
-{% if page.product == "mydoc" %}
 {
-"id"    : "{{ page.id }}",
+"doc_id": "{{ page.doc_id }}",
 "body": "{{ page.content | strip_newlines | replace: '\', '\\\\' | replace: '"', '\\"' }}"
 } {% unless forloop.last %},{% endunless %}
-{% endif %}
 {% endfor %}
 ]
 }

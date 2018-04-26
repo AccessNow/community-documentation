@@ -18,7 +18,7 @@ a[href]::after {
 }
 
 a[href^="http:"]::after, a[href^="https:"]::after {
-    content: " (" attr(href) ")";
+    content: "";
 }
 
 a[href] {
@@ -48,7 +48,7 @@ a[href*="mailto"]::after, a[data-toggle="tooltip"]::after, a[href].noCrossRef::a
 .printSubtitle {
     font-size: 19pt;
     color: #cccccc !important;
-    front-family: "Grotesque MT Light";
+    font-family: "Grotesque MT Light";
     line-height: 22pt;
     letter-spacing: -.5px;
     margin-bottom:20px;
@@ -157,4 +157,3 @@ h1 { string-set: doctitle content() }
 pre {
     background-color: #fafafa;
 }
-
