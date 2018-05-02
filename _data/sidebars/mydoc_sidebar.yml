@@ -72,12 +72,32 @@ entries:
       url: /tag_vulnerabilities_malware.html
       output: web, pdf
 
-  - title: Templates
+  - title: Email Templates
     output: web, pdf
 
     folderitems:
-    - title: All Templates
-      url: /tag_templates.html
+    - title: Account Recovery Templates 
+      url: /tag_account_recovery_templates.html
+      output: web, pdf
+
+    - title: Helpline Procedures Templates
+      url: /tag_helpline_procedures_templates.html
+      output: web, pdf
+
+    - title: Infrastructure Templates
+      url: /tag_infrastructure_templates.html
+      output: web, pdf
+
+    - title: Organization Security Templates
+      url: /tag_organization_security_templates.html
+      output: web, pdf
+
+    - title: Phishing/Supicious Email Templates
+      url: /tag_phishing_suspicious_email_templates.html
+      output: web, pdf
+
+    - title: Secure Communications Templates
+      url: /tag_secure_communications_templates.html
       output: web, pdf
 # example of 3-layer sidebar
 #
