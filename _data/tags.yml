@@ -22,3 +22,9 @@ allowed-tags:
   - phishing_suspicious_email
   - secure_communications
   - vulnerabilities_malware
+  - organization_security_templates
+  - account_recovery_templates
+  - helpline_procedures_templates
+  - secure_communications_templates
+  - phishing_suspicious_email_templates
+  - infrastructure_templates
