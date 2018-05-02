@@ -2,7 +2,7 @@
 title: WordPress Hardening Template
 keywords: templates, infrastructure, website protection, WordPress, web hardening, web security
 last_updated: April 26, 2018
-tags: [templates]
+tags: [templates, infrastructure_templates]
 summary: "Email to Client with links on how to harden a Wordpress-based site."
 sidebar: mydoc_sidebar
 permalink: wordpress_hardening_template.html

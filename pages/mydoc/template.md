@@ -1,5 +1,5 @@
 ---
-title: 
+title: Template for email templates 
 keywords: templates, 
 last_updated: Month XX, XXXX
 tags: [templates]
@@ -9,7 +9,7 @@ permalink: template.html
 folder: mydoc
 ---
 
-# Title
+# Template for email templates
 ## Subtitle
 
 ### Body

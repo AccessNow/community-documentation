@@ -2,7 +2,7 @@
 title: PGP key signing introduction
 keywords: templates, secure communications, PGP, GPG, keysigning, tampering attack, web of trust
 last_updated: April 26, 2018
-tags: [templates]
+tags: [templates, secure_communications_templates]
 summary: "Template to suggest key signing to enhance the web of trust and/or address a key tampering attack."
 sidebar: mydoc_sidebar
 permalink: pgp_keysigning_intro.html

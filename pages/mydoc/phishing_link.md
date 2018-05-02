@@ -2,7 +2,7 @@
 title: Template - Phishing Link
 keywords: templates, phishing, suspicious email, malware
 last_updated: April 26, 2018
-tags: [templates]
+tags: [templates, phishing_suspicious_email_templates]
 summary: "Email sent to host provider or technical responsible of domain to request them to cease spreading harm."
 sidebar: mydoc_sidebar
 permalink: phishing_link.html

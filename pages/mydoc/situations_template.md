@@ -1,8 +1,8 @@
 ---
 title: Outreach template for local situations
-keywords: templates, consultations, outreach
+keywords: templates, Helpline procedures, outreach
 last_updated: April 26, 2018
-tags: [templates]
+tags: [templates, helpline_procedures_templates]
 summary: "Template for reaching out to clients who might be affected by a local situation."
 sidebar: mydoc_sidebar
 permalink: situations.html

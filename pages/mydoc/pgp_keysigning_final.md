@@ -2,7 +2,7 @@
 title: Sending signed PGP key
 keywords: templates, secure communications, PGP, GPG, keysigning, web of trust
 last_updated: April 26, 2018
-tags: [templates]
+tags: [templates, secure_communications_templates]
 summary: "Template to be used after signing a PGP key to send the signed key and instructions to the user."
 sidebar: mydoc_sidebar
 permalink: pgp_keysigning_final.html

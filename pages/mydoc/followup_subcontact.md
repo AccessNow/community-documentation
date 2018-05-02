@@ -2,7 +2,7 @@
 title: Follow-up - Subcontact
 keywords: templates, Helpline procedures, followup
 last_updated: April 26, 2018
-tags: [templates]
+tags: [templates, helpline_procedures_templates]
 summary: "Email to client to follow up on a referral to a third party."
 sidebar: mydoc_sidebar
 permalink: followup_subcontact.html

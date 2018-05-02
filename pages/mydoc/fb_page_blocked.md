@@ -2,7 +2,7 @@
 title: Facebook - Page Blocked
 keywords: templates, account recovery, facebook
 last_updated: April 26, 2018
-tags: [templates]
+tags: [templates, account_recovery_templates]
 summary: "Initial email to client about a Facebook page blocked due to an alias."
 sidebar: mydoc_sidebar
 permalink: fb_page_blocked.html

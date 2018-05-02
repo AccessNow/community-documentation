@@ -2,7 +2,7 @@
 title: Out of Mandate
 keywords: templates, Helpline procedures, mandate check policy
 last_updated: April 26, 2018
-tags: [templates]
+tags: [templates, helpline_procedures_templates]
 summary: "Email to client to communicate that their request is out of mandate."
 sidebar: mydoc_sidebar
 permalink: out_of_mandate.html

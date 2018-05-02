@@ -2,7 +2,7 @@
 title: Setup checklist for clients travelling to China
 keywords: templates, organization security, safe travels
 last_updated: April 26, 2018
-tags: [templates]
+tags: [templates, organization_security_templates]
 summary: "Secure setup for clients who need to take their work or private devices to Mainland China."
 sidebar: mydoc_sidebar
 permalink: china_travels_checklist.html

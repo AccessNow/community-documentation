@@ -2,7 +2,7 @@
 title: Initial Reply
 keywords: templates, helpline procedures, case handling policy
 last_updated: April 26, 2018
-tags: [templates]
+tags: [templates, helpline_procedures_templates]
 summary: "First response, Email to Client."
 sidebar: mydoc_sidebar
 permalink: initial_reply.html
