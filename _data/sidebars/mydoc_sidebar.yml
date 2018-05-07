@@ -23,9 +23,9 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Account Recovery
-      url: /tag_account_recovery.html
-      output: web, pdf
+#    - title: Account Recovery
+#      url: /tag_account_recovery.html
+#      output: web, pdf
 #      type: homepage
 
     - title: Anonymity and Circumvention
