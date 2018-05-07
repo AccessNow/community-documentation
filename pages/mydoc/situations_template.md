@@ -8,17 +8,6 @@ sidebar: mydoc_sidebar
 permalink: situations.html
 folder: mydoc
 ---
----
-title: Outreach template for local situations
-subtitle: Template for reaching out to clients who might be affected by a local situation
-class: Templates
-topic: Consultations
-subtopic: Outreach
-conf: public
-lang: en
-summary: Template needed when reaching out to clients in case of a critical situation in their local area
-ref: 
----
 
 # Outreach template for situation in client's area
 ## Template for reaching out to clients who might be affected by a local situation
