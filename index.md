@@ -10,6 +10,8 @@ summary: Introduction to Access Now Digital Security Helpline Documentation
 
 # Access Now Digital Security Helpline Documentation
 
+**As of June 2018, this website is not mantained. The mantained website can be found at [https://accessnowhelpline.gitlab.io/community-documentation/](https://accessnowhelpline.gitlab.io/community-documentation/)**
+
 In this website you will find guides we use at Access Now Digital Security 
 Helpline to handle different kinds of cases during our 24/7 operations.
 
